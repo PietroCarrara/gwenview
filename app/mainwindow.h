@@ -132,8 +132,10 @@ private Q_SLOTS:
 
     void showFirstDocumentReached();
     void showLastDocumentReached();
-    
+
     void replaceLocation();
+
+    void autoResize();
 
 private:
     struct Private;
